@@ -7,7 +7,7 @@ _I used R code and the [{magick}](https://cran.r-project.org/web/packages/magick
 ## Motivation
 
 * Part A of the Assigmnent 1 I need to do for my STATS 220 course.
-* I was very confused at the beginning of the assignment so I decided to create a meme to show how I was feeling at the time.
+* I was very **confused** at the beginning of the assignment so I decided to create a meme to show how I was feeling at the time.
 
 ## Adaption
 1. When I was looking through various memes online to find inspiration for the format, I found a format where an identical image appears three times in order of size (some examples: [one](http://file.ljcd.gov.cn/uploadfile/2018/1103/20181103095327555.jpg), [two](http://tva1.sinaimg.cn/large/86883a42gy1fktdzeysctj20ij0adq50.jpg) and [three](https://www.bixiage.cn/uploads/088b753f3a46a29c13e86a402cb3ca07.jpg)).

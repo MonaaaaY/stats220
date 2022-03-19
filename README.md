@@ -1,6 +1,7 @@
 # stats220
 
-Hi! Welcome to my .[stats220 repository](https://github.com/MonaaaaY/stats220)!
+Hi! Welcome to my [stats220 repository](https://github.com/MonaaaaY/stats220)!
+
 ![welcome cat](https://angelswish.org/wp-content/uploads/2016/05/welcome-cat.jpg)
 
 ## The purpose

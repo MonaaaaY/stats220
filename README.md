@@ -2,7 +2,7 @@
 
 Hi! Welcome to my [stats220 repository](https://github.com/MonaaaaY/stats220)!
 
-<image src="welcome cat](https://angelswish.org/wp-content/uploads/2016/05/welcome-cat.jpg" width="300" height="280>
+<img src="welcome cat](https://angelswish.org/wp-content/uploads/2016/05/welcome-cat.jpg" width="300" height="280>
 
 ## The purpose
 

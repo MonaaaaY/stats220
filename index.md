@@ -2,11 +2,17 @@
 
 ![](my_meme.png)
 
-_I used R code and the .[{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package to create the meme._
+_I used R code and the .[{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package to create the meme_
 
-## The motivation
+## Motivation
+
+* Part A of the Assigmnent 1 I need to do for my STATS 220 course.
+* I was very confused at the beginning of the assignment so I decided to create a meme to show how I was feeling at the time.
 
 ## Adaption
+1. das
+2. fads
+3. afd
 
 ```r
 library(magick)
@@ -39,3 +45,4 @@ meme <- c(faces, text) %>%
 
 image_write(meme, "my_meme.png")
 ```
+_The R code I used to create the meme_

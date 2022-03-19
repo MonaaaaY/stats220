@@ -10,9 +10,8 @@ _I used R code and the .[{magick}](https://cran.r-project.org/web/packages/magic
 * I was very confused at the beginning of the assignment so I decided to create a meme to show how I was feeling at the time.
 
 ## Adaption
-1. das
-2. fads
-3. afd
+1. When I was looking through various memes online to find inspiration for the format, I found a format where an identical image appears three times in order of size (some examples: ![one](http://file.ljcd.gov.cn/uploadfile/2018/1103/20181103095327555.jpg)![two](http://tva1.sinaimg.cn/large/86883a42gy1fktdzeysctj20ij0adq50.jpg)![three](http://i.guancha.cn/news/2017/10/27/20171027153544768.jpg)).
+2. The image I wanted to use at first was the .[Confused Nick Young](https://i.kym-cdn.com/entries/icons/mobile/000/018/489/nick-young-confused-face-300x256-nqlyaa.jpg), but in the process of finding the original image I found the .[Sarcastic Laughing Kid](https://me.me/market?s=pop), which I thought would be more interesting.
 
 ```r
 library(magick)
